@@ -8,4 +8,4 @@ An application for all your recipes , where you can save new recipes , find reci
 4. Adding new recipes
 5. Finding recipes by ingrediants
 
-![](simplyCookVideo.mp4)
+![](simplyCookVideo.gif)
